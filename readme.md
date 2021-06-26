@@ -24,7 +24,7 @@ You can type the following URL in your browser:
 
 ```localhost:8000/api/v1/todos```
 
-![Browser endpoint](./browserUnf.PNG)
+![Browser endpoint](https://github.com/AlexisRmH/rest-api/blob/master/browser.png)
 
 ![Browser endpoint](./browser.PNG)
 
