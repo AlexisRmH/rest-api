@@ -26,7 +26,7 @@ You can type the following URL in your browser:
 
 ![Browser endpoint](https://github.com/AlexisRmH/rest-api/blob/master/browser.png)
 
-![Browser endpoint](./browser.PNG)
+![Browser endpoint](https://github.com/AlexisRmH/rest-api/blob/master/browserUnf.png)
 
 _The JSON was formatted using the Chrome extension "JSON Formatter"_
 
@@ -34,7 +34,7 @@ Or use the following command in a prompt:
 
 ```curl localhost:8000/api/v1/todos```
 
-![Command prompt endpoint](./cmd.PNG)
+![Command prompt endpoint](https://github.com/AlexisRmH/rest-api/blob/master/cmd.png)
 
 The endpoint responds with the following JSON, which lists all of the pending tasks:
 
