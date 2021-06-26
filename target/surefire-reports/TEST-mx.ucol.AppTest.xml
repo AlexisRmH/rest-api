@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="mx.ucol.AppTest" time="0.026" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="mx.ucol.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\asale\AppData\Local\Temp\surefire959183328404065396\surefirebooter5941745740000691314.jar C:\Users\asale\AppData\Local\Temp\surefire959183328404065396 2021-06-25T23-36-27_821-jvmRun1 surefire4628004239377813901tmp surefire_0902228109261651532tmp"/>
+    <property name="sun.java.command" value="C:\Users\asale\AppData\Local\Temp\surefire3691963630196700205\surefirebooter2173535543427966089.jar C:\Users\asale\AppData\Local\Temp\surefire3691963630196700205 2021-06-26T03-28-34_869-jvmRun1 surefire279833995030244013tmp surefire_06947686308704973997tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\asale\Desktop\programacion-distribuida\rest-api\target\test-classes;C:\Users\asale\Desktop\programacion-distribuida\rest-api\target\classes;C:\Users\asale\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\asale\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\asale\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.1\jackson-databind-2.11.1.jar;C:\Users\asale\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.1\jackson-annotations-2.11.1.jar;C:\Users\asale\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.1\jackson-core-2.11.1.jar;C:\Users\asale\.m2\repository\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\asale"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\asale\AppData\Local\Temp\surefire959183328404065396\surefirebooter5941745740000691314.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\asale\AppData\Local\Temp\surefire3691963630196700205\surefirebooter2173535543427966089.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="mx.ucol.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="mx.ucol.AppTest" time="0.001"/>
 </testsuite>
